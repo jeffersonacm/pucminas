@@ -1,0 +1,13 @@
+C:\Users\1134257\Desktop\Exemplo3\Exemplo3\bin\Debug\Exemplo3.exe.config
+C:\Users\1134257\Desktop\Exemplo3\Exemplo3\bin\Debug\Exemplo3.exe
+C:\Users\1134257\Desktop\Exemplo3\Exemplo3\bin\Debug\Exemplo3.pdb
+C:\Users\1134257\Desktop\Exemplo3\Exemplo3\obj\Debug\Exemplo3.csproj.CoreCompileInputs.cache
+C:\Users\1134257\Desktop\Exemplo3\Exemplo3\obj\Debug\Exemplo3.exe
+C:\Users\1134257\Desktop\Exemplo3\Exemplo3\obj\Debug\Exemplo3.pdb
+C:\Programação\Drive\Csharp\1º semestre\R01\Exemplo3\Exemplo3\bin\Debug\Exemplo3.exe.config
+C:\Programação\Drive\Csharp\1º semestre\R01\Exemplo3\Exemplo3\bin\Debug\Exemplo3.exe
+C:\Programação\Drive\Csharp\1º semestre\R01\Exemplo3\Exemplo3\bin\Debug\Exemplo3.pdb
+C:\Programação\Drive\Csharp\1º semestre\R01\Exemplo3\Exemplo3\obj\Debug\Exemplo3.csprojAssemblyReference.cache
+C:\Programação\Drive\Csharp\1º semestre\R01\Exemplo3\Exemplo3\obj\Debug\Exemplo3.csproj.CoreCompileInputs.cache
+C:\Programação\Drive\Csharp\1º semestre\R01\Exemplo3\Exemplo3\obj\Debug\Exemplo3.exe
+C:\Programação\Drive\Csharp\1º semestre\R01\Exemplo3\Exemplo3\obj\Debug\Exemplo3.pdb

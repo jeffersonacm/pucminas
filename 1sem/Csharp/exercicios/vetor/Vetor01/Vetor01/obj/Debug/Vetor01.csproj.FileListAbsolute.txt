@@ -1,0 +1,7 @@
+D:\drive\Csharp\1º semestre\exercicios\vetor\Vetor01\Vetor01\bin\Debug\Vetor01.exe.config
+D:\drive\Csharp\1º semestre\exercicios\vetor\Vetor01\Vetor01\bin\Debug\Vetor01.exe
+D:\drive\Csharp\1º semestre\exercicios\vetor\Vetor01\Vetor01\bin\Debug\Vetor01.pdb
+D:\drive\Csharp\1º semestre\exercicios\vetor\Vetor01\Vetor01\obj\Debug\Vetor01.csprojAssemblyReference.cache
+D:\drive\Csharp\1º semestre\exercicios\vetor\Vetor01\Vetor01\obj\Debug\Vetor01.csproj.CoreCompileInputs.cache
+D:\drive\Csharp\1º semestre\exercicios\vetor\Vetor01\Vetor01\obj\Debug\Vetor01.exe
+D:\drive\Csharp\1º semestre\exercicios\vetor\Vetor01\Vetor01\obj\Debug\Vetor01.pdb

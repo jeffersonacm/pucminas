@@ -1,0 +1,21 @@
+C:\Users\1134257.PUCMINAS\source\repos\R05_03\R05_03\obj\Debug\R05_03.csprojAssemblyReference.cache
+C:\Users\1134257.PUCMINAS\source\repos\R05_03\R05_03\obj\Debug\R05_03.csproj.CoreCompileInputs.cache
+C:\Users\1134257.PUCMINAS\source\repos\R05_03\R05_03\bin\Debug\R05_03.exe.config
+C:\Users\1134257.PUCMINAS\source\repos\R05_03\R05_03\bin\Debug\R05_03.exe
+C:\Users\1134257.PUCMINAS\source\repos\R05_03\R05_03\bin\Debug\R05_03.pdb
+C:\Users\1134257.PUCMINAS\source\repos\R05_03\R05_03\obj\Debug\R05_03.exe
+C:\Users\1134257.PUCMINAS\source\repos\R05_03\R05_03\obj\Debug\R05_03.pdb
+D:\drive\Csharp\1º semestre\R05\R05_03\R05_03\bin\Debug\R05_03.exe.config
+D:\drive\Csharp\1º semestre\R05\R05_03\R05_03\bin\Debug\R05_03.exe
+D:\drive\Csharp\1º semestre\R05\R05_03\R05_03\bin\Debug\R05_03.pdb
+D:\drive\Csharp\1º semestre\R05\R05_03\R05_03\obj\Debug\R05_03.csprojAssemblyReference.cache
+D:\drive\Csharp\1º semestre\R05\R05_03\R05_03\obj\Debug\R05_03.csproj.CoreCompileInputs.cache
+D:\drive\Csharp\1º semestre\R05\R05_03\R05_03\obj\Debug\R05_03.exe
+D:\drive\Csharp\1º semestre\R05\R05_03\R05_03\obj\Debug\R05_03.pdb
+C:\Programação\Drive\Csharp\1º semestre\R05\R05_03\R05_03\bin\Debug\R05_03.exe.config
+C:\Programação\Drive\Csharp\1º semestre\R05\R05_03\R05_03\bin\Debug\R05_03.exe
+C:\Programação\Drive\Csharp\1º semestre\R05\R05_03\R05_03\bin\Debug\R05_03.pdb
+C:\Programação\Drive\Csharp\1º semestre\R05\R05_03\R05_03\obj\Debug\R05_03.csprojAssemblyReference.cache
+C:\Programação\Drive\Csharp\1º semestre\R05\R05_03\R05_03\obj\Debug\R05_03.csproj.CoreCompileInputs.cache
+C:\Programação\Drive\Csharp\1º semestre\R05\R05_03\R05_03\obj\Debug\R05_03.exe
+C:\Programação\Drive\Csharp\1º semestre\R05\R05_03\R05_03\obj\Debug\R05_03.pdb

@@ -1,0 +1,13 @@
+C:\Users\1134257\Desktop\R06_03\R06_03\bin\Debug\R06_03.exe.config
+C:\Users\1134257\Desktop\R06_03\R06_03\bin\Debug\R06_03.exe
+C:\Users\1134257\Desktop\R06_03\R06_03\bin\Debug\R06_03.pdb
+C:\Users\1134257\Desktop\R06_03\R06_03\obj\Debug\R06_03.csproj.CoreCompileInputs.cache
+C:\Users\1134257\Desktop\R06_03\R06_03\obj\Debug\R06_03.exe
+C:\Users\1134257\Desktop\R06_03\R06_03\obj\Debug\R06_03.pdb
+D:\drive\Csharp\1º semestre\R06\R06_03\R06_03\bin\Debug\R06_03.exe.config
+D:\drive\Csharp\1º semestre\R06\R06_03\R06_03\bin\Debug\R06_03.exe
+D:\drive\Csharp\1º semestre\R06\R06_03\R06_03\bin\Debug\R06_03.pdb
+D:\drive\Csharp\1º semestre\R06\R06_03\R06_03\obj\Debug\R06_03.csprojAssemblyReference.cache
+D:\drive\Csharp\1º semestre\R06\R06_03\R06_03\obj\Debug\R06_03.csproj.CoreCompileInputs.cache
+D:\drive\Csharp\1º semestre\R06\R06_03\R06_03\obj\Debug\R06_03.exe
+D:\drive\Csharp\1º semestre\R06\R06_03\R06_03\obj\Debug\R06_03.pdb

@@ -1,0 +1,14 @@
+C:\Users\1134257\Desktop\Exemplo4\Exemplo4\bin\Debug\Exemplo4.exe.config
+C:\Users\1134257\Desktop\Exemplo4\Exemplo4\bin\Debug\Exemplo4.exe
+C:\Users\1134257\Desktop\Exemplo4\Exemplo4\bin\Debug\Exemplo4.pdb
+C:\Users\1134257\Desktop\Exemplo4\Exemplo4\obj\Debug\Exemplo4.csprojAssemblyReference.cache
+C:\Users\1134257\Desktop\Exemplo4\Exemplo4\obj\Debug\Exemplo4.csproj.CoreCompileInputs.cache
+C:\Users\1134257\Desktop\Exemplo4\Exemplo4\obj\Debug\Exemplo4.exe
+C:\Users\1134257\Desktop\Exemplo4\Exemplo4\obj\Debug\Exemplo4.pdb
+C:\Programação\Drive\Csharp\1º semestre\R01\Exemplo4\Exemplo4\bin\Debug\Exemplo4.exe.config
+C:\Programação\Drive\Csharp\1º semestre\R01\Exemplo4\Exemplo4\bin\Debug\Exemplo4.exe
+C:\Programação\Drive\Csharp\1º semestre\R01\Exemplo4\Exemplo4\bin\Debug\Exemplo4.pdb
+C:\Programação\Drive\Csharp\1º semestre\R01\Exemplo4\Exemplo4\obj\Debug\Exemplo4.csprojAssemblyReference.cache
+C:\Programação\Drive\Csharp\1º semestre\R01\Exemplo4\Exemplo4\obj\Debug\Exemplo4.csproj.CoreCompileInputs.cache
+C:\Programação\Drive\Csharp\1º semestre\R01\Exemplo4\Exemplo4\obj\Debug\Exemplo4.exe
+C:\Programação\Drive\Csharp\1º semestre\R01\Exemplo4\Exemplo4\obj\Debug\Exemplo4.pdb

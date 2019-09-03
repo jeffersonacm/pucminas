@@ -1,0 +1,7 @@
+C:\visual studio\C# - 1 sem\R01_exercicio14_idade\R01_exercicio14_idade\bin\Debug\R01_exercicio14_idade.exe.config
+C:\visual studio\C# - 1 sem\R01_exercicio14_idade\R01_exercicio14_idade\bin\Debug\R01_exercicio14_idade.exe
+C:\visual studio\C# - 1 sem\R01_exercicio14_idade\R01_exercicio14_idade\bin\Debug\R01_exercicio14_idade.pdb
+C:\visual studio\C# - 1 sem\R01_exercicio14_idade\R01_exercicio14_idade\obj\Debug\R01_exercicio14_idade.csprojAssemblyReference.cache
+C:\visual studio\C# - 1 sem\R01_exercicio14_idade\R01_exercicio14_idade\obj\Debug\R01_exercicio14_idade.csproj.CoreCompileInputs.cache
+C:\visual studio\C# - 1 sem\R01_exercicio14_idade\R01_exercicio14_idade\obj\Debug\R01_exercicio14_idade.exe
+C:\visual studio\C# - 1 sem\R01_exercicio14_idade\R01_exercicio14_idade\obj\Debug\R01_exercicio14_idade.pdb

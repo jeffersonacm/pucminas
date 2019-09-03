@@ -1,0 +1,7 @@
+D:\drive\Csharp\1º semestre\exercicios\15.05.19\Exercicio01\Exercicio01\bin\Debug\Exercicio01.exe.config
+D:\drive\Csharp\1º semestre\exercicios\15.05.19\Exercicio01\Exercicio01\bin\Debug\Exercicio01.exe
+D:\drive\Csharp\1º semestre\exercicios\15.05.19\Exercicio01\Exercicio01\bin\Debug\Exercicio01.pdb
+D:\drive\Csharp\1º semestre\exercicios\15.05.19\Exercicio01\Exercicio01\obj\Debug\Exercicio01.csprojAssemblyReference.cache
+D:\drive\Csharp\1º semestre\exercicios\15.05.19\Exercicio01\Exercicio01\obj\Debug\Exercicio01.csproj.CoreCompileInputs.cache
+D:\drive\Csharp\1º semestre\exercicios\15.05.19\Exercicio01\Exercicio01\obj\Debug\Exercicio01.exe
+D:\drive\Csharp\1º semestre\exercicios\15.05.19\Exercicio01\Exercicio01\obj\Debug\Exercicio01.pdb

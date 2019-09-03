@@ -1,0 +1,7 @@
+C:\Users\jeffe\source\repos\R01_exercicio9_area\R01_exercicio9_area\bin\Debug\R01_exercicio9_area.exe.config
+C:\Users\jeffe\source\repos\R01_exercicio9_area\R01_exercicio9_area\bin\Debug\R01_exercicio9_area.exe
+C:\Users\jeffe\source\repos\R01_exercicio9_area\R01_exercicio9_area\bin\Debug\R01_exercicio9_area.pdb
+C:\Users\jeffe\source\repos\R01_exercicio9_area\R01_exercicio9_area\obj\Debug\R01_exercicio9_area.csprojAssemblyReference.cache
+C:\Users\jeffe\source\repos\R01_exercicio9_area\R01_exercicio9_area\obj\Debug\R01_exercicio9_area.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\source\repos\R01_exercicio9_area\R01_exercicio9_area\obj\Debug\R01_exercicio9_area.exe
+C:\Users\jeffe\source\repos\R01_exercicio9_area\R01_exercicio9_area\obj\Debug\R01_exercicio9_area.pdb

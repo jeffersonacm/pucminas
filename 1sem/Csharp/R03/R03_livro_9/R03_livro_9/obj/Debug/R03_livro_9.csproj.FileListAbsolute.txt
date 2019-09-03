@@ -1,0 +1,6 @@
+C:\Users\jeffe\OneDrive\Área de Trabalho\Exercicio3\R03_livro_9\R03_livro_9\bin\Debug\R03_livro_9.exe.config
+C:\Users\jeffe\OneDrive\Área de Trabalho\Exercicio3\R03_livro_9\R03_livro_9\bin\Debug\R03_livro_9.exe
+C:\Users\jeffe\OneDrive\Área de Trabalho\Exercicio3\R03_livro_9\R03_livro_9\bin\Debug\R03_livro_9.pdb
+C:\Users\jeffe\OneDrive\Área de Trabalho\Exercicio3\R03_livro_9\R03_livro_9\obj\Debug\R03_livro_9.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\OneDrive\Área de Trabalho\Exercicio3\R03_livro_9\R03_livro_9\obj\Debug\R03_livro_9.exe
+C:\Users\jeffe\OneDrive\Área de Trabalho\Exercicio3\R03_livro_9\R03_livro_9\obj\Debug\R03_livro_9.pdb

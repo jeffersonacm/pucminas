@@ -1,0 +1,7 @@
+C:\Users\jeffe\source\repos\R01_exercicio17_mat\R01_exercicio17_mat\bin\Debug\R01_exercicio17_mat.exe.config
+C:\Users\jeffe\source\repos\R01_exercicio17_mat\R01_exercicio17_mat\bin\Debug\R01_exercicio17_mat.exe
+C:\Users\jeffe\source\repos\R01_exercicio17_mat\R01_exercicio17_mat\bin\Debug\R01_exercicio17_mat.pdb
+C:\Users\jeffe\source\repos\R01_exercicio17_mat\R01_exercicio17_mat\obj\Debug\R01_exercicio17_mat.csprojAssemblyReference.cache
+C:\Users\jeffe\source\repos\R01_exercicio17_mat\R01_exercicio17_mat\obj\Debug\R01_exercicio17_mat.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\source\repos\R01_exercicio17_mat\R01_exercicio17_mat\obj\Debug\R01_exercicio17_mat.exe
+C:\Users\jeffe\source\repos\R01_exercicio17_mat\R01_exercicio17_mat\obj\Debug\R01_exercicio17_mat.pdb

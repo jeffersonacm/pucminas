@@ -1,0 +1,7 @@
+C:\Users\jeffe\source\repos\Roteiro4\R04_03\R04_03\bin\Debug\R04_03.exe.config
+C:\Users\jeffe\source\repos\Roteiro4\R04_03\R04_03\bin\Debug\R04_03.exe
+C:\Users\jeffe\source\repos\Roteiro4\R04_03\R04_03\bin\Debug\R04_03.pdb
+C:\Users\jeffe\source\repos\Roteiro4\R04_03\R04_03\obj\Debug\R04_03.csprojAssemblyReference.cache
+C:\Users\jeffe\source\repos\Roteiro4\R04_03\R04_03\obj\Debug\R04_03.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\source\repos\Roteiro4\R04_03\R04_03\obj\Debug\R04_03.exe
+C:\Users\jeffe\source\repos\Roteiro4\R04_03\R04_03\obj\Debug\R04_03.pdb

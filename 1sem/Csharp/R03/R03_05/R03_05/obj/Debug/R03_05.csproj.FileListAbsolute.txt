@@ -1,0 +1,7 @@
+C:\Users\1134257\Desktop\R03_05\R03_05\bin\Debug\R03_05.exe.config
+C:\Users\1134257\Desktop\R03_05\R03_05\bin\Debug\R03_05.exe
+C:\Users\1134257\Desktop\R03_05\R03_05\bin\Debug\R03_05.pdb
+C:\Users\1134257\Desktop\R03_05\R03_05\obj\Debug\R03_05.csprojAssemblyReference.cache
+C:\Users\1134257\Desktop\R03_05\R03_05\obj\Debug\R03_05.csproj.CoreCompileInputs.cache
+C:\Users\1134257\Desktop\R03_05\R03_05\obj\Debug\R03_05.exe
+C:\Users\1134257\Desktop\R03_05\R03_05\obj\Debug\R03_05.pdb

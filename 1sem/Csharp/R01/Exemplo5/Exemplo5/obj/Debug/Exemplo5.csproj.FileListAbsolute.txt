@@ -1,0 +1,13 @@
+C:\Users\1134257\Desktop\Exemplo5\Exemplo5\bin\Debug\Exemplo5.exe.config
+C:\Users\1134257\Desktop\Exemplo5\Exemplo5\bin\Debug\Exemplo5.exe
+C:\Users\1134257\Desktop\Exemplo5\Exemplo5\bin\Debug\Exemplo5.pdb
+C:\Users\1134257\Desktop\Exemplo5\Exemplo5\obj\Debug\Exemplo5.csproj.CoreCompileInputs.cache
+C:\Users\1134257\Desktop\Exemplo5\Exemplo5\obj\Debug\Exemplo5.exe
+C:\Users\1134257\Desktop\Exemplo5\Exemplo5\obj\Debug\Exemplo5.pdb
+C:\Programação\Drive\Csharp\1º semestre\R01\Exemplo5\Exemplo5\bin\Debug\Exemplo5.exe.config
+C:\Programação\Drive\Csharp\1º semestre\R01\Exemplo5\Exemplo5\bin\Debug\Exemplo5.exe
+C:\Programação\Drive\Csharp\1º semestre\R01\Exemplo5\Exemplo5\bin\Debug\Exemplo5.pdb
+C:\Programação\Drive\Csharp\1º semestre\R01\Exemplo5\Exemplo5\obj\Debug\Exemplo5.csprojAssemblyReference.cache
+C:\Programação\Drive\Csharp\1º semestre\R01\Exemplo5\Exemplo5\obj\Debug\Exemplo5.csproj.CoreCompileInputs.cache
+C:\Programação\Drive\Csharp\1º semestre\R01\Exemplo5\Exemplo5\obj\Debug\Exemplo5.exe
+C:\Programação\Drive\Csharp\1º semestre\R01\Exemplo5\Exemplo5\obj\Debug\Exemplo5.pdb

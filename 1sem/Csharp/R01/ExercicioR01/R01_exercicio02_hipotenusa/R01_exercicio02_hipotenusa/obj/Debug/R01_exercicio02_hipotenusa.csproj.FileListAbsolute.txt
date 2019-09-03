@@ -1,0 +1,6 @@
+C:\visual studio\C# - 1 sem\R01_exercicio02_hipotenusa\R01_exercicio02_hipotenusa\bin\Debug\R01_exercicio02_hipotenusa.exe.config
+C:\visual studio\C# - 1 sem\R01_exercicio02_hipotenusa\R01_exercicio02_hipotenusa\bin\Debug\R01_exercicio02_hipotenusa.exe
+C:\visual studio\C# - 1 sem\R01_exercicio02_hipotenusa\R01_exercicio02_hipotenusa\bin\Debug\R01_exercicio02_hipotenusa.pdb
+C:\visual studio\C# - 1 sem\R01_exercicio02_hipotenusa\R01_exercicio02_hipotenusa\obj\Debug\R01_exercicio02_hipotenusa.csproj.CoreCompileInputs.cache
+C:\visual studio\C# - 1 sem\R01_exercicio02_hipotenusa\R01_exercicio02_hipotenusa\obj\Debug\R01_exercicio02_hipotenusa.exe
+C:\visual studio\C# - 1 sem\R01_exercicio02_hipotenusa\R01_exercicio02_hipotenusa\obj\Debug\R01_exercicio02_hipotenusa.pdb

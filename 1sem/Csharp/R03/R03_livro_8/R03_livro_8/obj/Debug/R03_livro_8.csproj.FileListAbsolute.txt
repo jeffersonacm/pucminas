@@ -1,0 +1,7 @@
+C:\Users\jeffe\OneDrive\Área de Trabalho\Exercicio3\R03_livro_8\R03_livro_8\bin\Debug\R03_livro_8.exe.config
+C:\Users\jeffe\OneDrive\Área de Trabalho\Exercicio3\R03_livro_8\R03_livro_8\bin\Debug\R03_livro_8.exe
+C:\Users\jeffe\OneDrive\Área de Trabalho\Exercicio3\R03_livro_8\R03_livro_8\bin\Debug\R03_livro_8.pdb
+C:\Users\jeffe\OneDrive\Área de Trabalho\Exercicio3\R03_livro_8\R03_livro_8\obj\Debug\R03_livro_8.csprojAssemblyReference.cache
+C:\Users\jeffe\OneDrive\Área de Trabalho\Exercicio3\R03_livro_8\R03_livro_8\obj\Debug\R03_livro_8.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\OneDrive\Área de Trabalho\Exercicio3\R03_livro_8\R03_livro_8\obj\Debug\R03_livro_8.exe
+C:\Users\jeffe\OneDrive\Área de Trabalho\Exercicio3\R03_livro_8\R03_livro_8\obj\Debug\R03_livro_8.pdb

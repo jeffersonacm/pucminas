@@ -1,0 +1,7 @@
+D:\drive\Csharp\1º semestre\R07\R07_06\R07_06\bin\Debug\R07_06.exe.config
+D:\drive\Csharp\1º semestre\R07\R07_06\R07_06\bin\Debug\R07_06.exe
+D:\drive\Csharp\1º semestre\R07\R07_06\R07_06\bin\Debug\R07_06.pdb
+D:\drive\Csharp\1º semestre\R07\R07_06\R07_06\obj\Debug\R07_06.csprojAssemblyReference.cache
+D:\drive\Csharp\1º semestre\R07\R07_06\R07_06\obj\Debug\R07_06.csproj.CoreCompileInputs.cache
+D:\drive\Csharp\1º semestre\R07\R07_06\R07_06\obj\Debug\R07_06.exe
+D:\drive\Csharp\1º semestre\R07\R07_06\R07_06\obj\Debug\R07_06.pdb

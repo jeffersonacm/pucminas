@@ -1,0 +1,7 @@
+C:\visual studio\C# - 1 sem\R01-exercicio4\R01-exercicio4\bin\Debug\R01-exercicio4.exe.config
+C:\visual studio\C# - 1 sem\R01-exercicio4\R01-exercicio4\bin\Debug\R01-exercicio4.exe
+C:\visual studio\C# - 1 sem\R01-exercicio4\R01-exercicio4\bin\Debug\R01-exercicio4.pdb
+C:\visual studio\C# - 1 sem\R01-exercicio4\R01-exercicio4\obj\Debug\R01-exercicio4.csprojAssemblyReference.cache
+C:\visual studio\C# - 1 sem\R01-exercicio4\R01-exercicio4\obj\Debug\R01-exercicio4.csproj.CoreCompileInputs.cache
+C:\visual studio\C# - 1 sem\R01-exercicio4\R01-exercicio4\obj\Debug\R01-exercicio4.exe
+C:\visual studio\C# - 1 sem\R01-exercicio4\R01-exercicio4\obj\Debug\R01-exercicio4.pdb

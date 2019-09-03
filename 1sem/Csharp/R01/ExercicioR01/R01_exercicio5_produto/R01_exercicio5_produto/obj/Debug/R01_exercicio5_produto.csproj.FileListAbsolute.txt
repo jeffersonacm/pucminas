@@ -1,0 +1,7 @@
+C:\visual studio\C# - 1 sem\R01_exercicio5_produto\R01_exercicio5_produto\bin\Debug\R01_exercicio5_produto.exe.config
+C:\visual studio\C# - 1 sem\R01_exercicio5_produto\R01_exercicio5_produto\bin\Debug\R01_exercicio5_produto.exe
+C:\visual studio\C# - 1 sem\R01_exercicio5_produto\R01_exercicio5_produto\bin\Debug\R01_exercicio5_produto.pdb
+C:\visual studio\C# - 1 sem\R01_exercicio5_produto\R01_exercicio5_produto\obj\Debug\R01_exercicio5_produto.csprojAssemblyReference.cache
+C:\visual studio\C# - 1 sem\R01_exercicio5_produto\R01_exercicio5_produto\obj\Debug\R01_exercicio5_produto.csproj.CoreCompileInputs.cache
+C:\visual studio\C# - 1 sem\R01_exercicio5_produto\R01_exercicio5_produto\obj\Debug\R01_exercicio5_produto.exe
+C:\visual studio\C# - 1 sem\R01_exercicio5_produto\R01_exercicio5_produto\obj\Debug\R01_exercicio5_produto.pdb

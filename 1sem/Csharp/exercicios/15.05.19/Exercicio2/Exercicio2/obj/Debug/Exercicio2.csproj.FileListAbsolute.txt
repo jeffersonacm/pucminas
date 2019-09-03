@@ -1,0 +1,14 @@
+D:\drive\Csharp\1º semestre\exercicios\15.05.19\Exercicio2\Exercicio2\bin\Debug\Exercicio2.exe.config
+D:\drive\Csharp\1º semestre\exercicios\15.05.19\Exercicio2\Exercicio2\bin\Debug\Exercicio2.exe
+D:\drive\Csharp\1º semestre\exercicios\15.05.19\Exercicio2\Exercicio2\bin\Debug\Exercicio2.pdb
+D:\drive\Csharp\1º semestre\exercicios\15.05.19\Exercicio2\Exercicio2\obj\Debug\Exercicio2.csproj.CoreCompileInputs.cache
+D:\drive\Csharp\1º semestre\exercicios\15.05.19\Exercicio2\Exercicio2\obj\Debug\Exercicio2.exe
+D:\drive\Csharp\1º semestre\exercicios\15.05.19\Exercicio2\Exercicio2\obj\Debug\Exercicio2.pdb
+D:\drive\Csharp\1º semestre\exercicios\15.05.19\Exercicio2\Exercicio2\obj\Debug\Exercicio2.csprojAssemblyReference.cache
+C:\Programação\Drive\Csharp\1º semestre\exercicios\15.05.19\Exercicio2\Exercicio2\bin\Debug\Exercicio2.exe.config
+C:\Programação\Drive\Csharp\1º semestre\exercicios\15.05.19\Exercicio2\Exercicio2\bin\Debug\Exercicio2.exe
+C:\Programação\Drive\Csharp\1º semestre\exercicios\15.05.19\Exercicio2\Exercicio2\bin\Debug\Exercicio2.pdb
+C:\Programação\Drive\Csharp\1º semestre\exercicios\15.05.19\Exercicio2\Exercicio2\obj\Debug\Exercicio2.csprojAssemblyReference.cache
+C:\Programação\Drive\Csharp\1º semestre\exercicios\15.05.19\Exercicio2\Exercicio2\obj\Debug\Exercicio2.csproj.CoreCompileInputs.cache
+C:\Programação\Drive\Csharp\1º semestre\exercicios\15.05.19\Exercicio2\Exercicio2\obj\Debug\Exercicio2.exe
+C:\Programação\Drive\Csharp\1º semestre\exercicios\15.05.19\Exercicio2\Exercicio2\obj\Debug\Exercicio2.pdb

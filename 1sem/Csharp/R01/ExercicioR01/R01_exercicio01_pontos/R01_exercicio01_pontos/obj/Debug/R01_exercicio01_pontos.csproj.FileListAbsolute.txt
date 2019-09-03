@@ -1,0 +1,7 @@
+C:\visual studio\C# - 1 sem\R01_exercicio01_pontos\R01_exercicio01_pontos\bin\Debug\R01_exercicio01_pontos.exe.config
+C:\visual studio\C# - 1 sem\R01_exercicio01_pontos\R01_exercicio01_pontos\bin\Debug\R01_exercicio01_pontos.exe
+C:\visual studio\C# - 1 sem\R01_exercicio01_pontos\R01_exercicio01_pontos\bin\Debug\R01_exercicio01_pontos.pdb
+C:\visual studio\C# - 1 sem\R01_exercicio01_pontos\R01_exercicio01_pontos\obj\Debug\R01_exercicio01_pontos.csprojAssemblyReference.cache
+C:\visual studio\C# - 1 sem\R01_exercicio01_pontos\R01_exercicio01_pontos\obj\Debug\R01_exercicio01_pontos.csproj.CoreCompileInputs.cache
+C:\visual studio\C# - 1 sem\R01_exercicio01_pontos\R01_exercicio01_pontos\obj\Debug\R01_exercicio01_pontos.exe
+C:\visual studio\C# - 1 sem\R01_exercicio01_pontos\R01_exercicio01_pontos\obj\Debug\R01_exercicio01_pontos.pdb

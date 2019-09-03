@@ -1,0 +1,7 @@
+D:\drive\Csharp\1º semestre\listas\Lista3-21\Lista3-21\bin\Debug\Lista3-21.exe.config
+D:\drive\Csharp\1º semestre\listas\Lista3-21\Lista3-21\bin\Debug\Lista3-21.exe
+D:\drive\Csharp\1º semestre\listas\Lista3-21\Lista3-21\bin\Debug\Lista3-21.pdb
+D:\drive\Csharp\1º semestre\listas\Lista3-21\Lista3-21\obj\Debug\Lista3-21.csprojAssemblyReference.cache
+D:\drive\Csharp\1º semestre\listas\Lista3-21\Lista3-21\obj\Debug\Lista3-21.csproj.CoreCompileInputs.cache
+D:\drive\Csharp\1º semestre\listas\Lista3-21\Lista3-21\obj\Debug\Lista3-21.exe
+D:\drive\Csharp\1º semestre\listas\Lista3-21\Lista3-21\obj\Debug\Lista3-21.pdb

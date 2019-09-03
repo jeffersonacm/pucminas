@@ -1,0 +1,7 @@
+C:\Users\1134257\Desktop\R02_exercicio07\R02_exercicio07\bin\Debug\R02_exercicio07.exe.config
+C:\Users\1134257\Desktop\R02_exercicio07\R02_exercicio07\bin\Debug\R02_exercicio07.exe
+C:\Users\1134257\Desktop\R02_exercicio07\R02_exercicio07\bin\Debug\R02_exercicio07.pdb
+C:\Users\1134257\Desktop\R02_exercicio07\R02_exercicio07\obj\Debug\R02_exercicio07.csprojAssemblyReference.cache
+C:\Users\1134257\Desktop\R02_exercicio07\R02_exercicio07\obj\Debug\R02_exercicio07.csproj.CoreCompileInputs.cache
+C:\Users\1134257\Desktop\R02_exercicio07\R02_exercicio07\obj\Debug\R02_exercicio07.exe
+C:\Users\1134257\Desktop\R02_exercicio07\R02_exercicio07\obj\Debug\R02_exercicio07.pdb

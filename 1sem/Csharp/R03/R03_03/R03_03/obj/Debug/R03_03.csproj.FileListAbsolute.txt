@@ -1,0 +1,7 @@
+C:\Users\jeffe\OneDrive\Área de Trabalho\Exercicio3\R03_03\R03_03\bin\Debug\R03_03.exe.config
+C:\Users\jeffe\OneDrive\Área de Trabalho\Exercicio3\R03_03\R03_03\bin\Debug\R03_03.exe
+C:\Users\jeffe\OneDrive\Área de Trabalho\Exercicio3\R03_03\R03_03\bin\Debug\R03_03.pdb
+C:\Users\jeffe\OneDrive\Área de Trabalho\Exercicio3\R03_03\R03_03\obj\Debug\R03_03.csprojAssemblyReference.cache
+C:\Users\jeffe\OneDrive\Área de Trabalho\Exercicio3\R03_03\R03_03\obj\Debug\R03_03.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\OneDrive\Área de Trabalho\Exercicio3\R03_03\R03_03\obj\Debug\R03_03.exe
+C:\Users\jeffe\OneDrive\Área de Trabalho\Exercicio3\R03_03\R03_03\obj\Debug\R03_03.pdb

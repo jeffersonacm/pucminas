@@ -1,0 +1,6 @@
+C:\Users\1134257\source\repos\R02_exercicio4\R02_exercicio4\bin\Debug\R02_exercicio4.exe.config
+C:\Users\1134257\source\repos\R02_exercicio4\R02_exercicio4\bin\Debug\R02_exercicio4.exe
+C:\Users\1134257\source\repos\R02_exercicio4\R02_exercicio4\bin\Debug\R02_exercicio4.pdb
+C:\Users\1134257\source\repos\R02_exercicio4\R02_exercicio4\obj\Debug\R02_exercicio4.csproj.CoreCompileInputs.cache
+C:\Users\1134257\source\repos\R02_exercicio4\R02_exercicio4\obj\Debug\R02_exercicio4.exe
+C:\Users\1134257\source\repos\R02_exercicio4\R02_exercicio4\obj\Debug\R02_exercicio4.pdb

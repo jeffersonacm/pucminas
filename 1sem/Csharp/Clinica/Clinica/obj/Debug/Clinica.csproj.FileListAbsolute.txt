@@ -1,0 +1,24 @@
+D:\drive\Csharp\1º semestre\Clinica\Clinica\bin\Debug\Clinica.exe.config
+D:\drive\Csharp\1º semestre\Clinica\Clinica\bin\Debug\Clinica.exe
+D:\drive\Csharp\1º semestre\Clinica\Clinica\bin\Debug\Clinica.pdb
+D:\drive\Csharp\1º semestre\Clinica\Clinica\obj\Debug\Clinica.csprojAssemblyReference.cache
+D:\drive\Csharp\1º semestre\Clinica\Clinica\obj\Debug\Clinica.Form1.resources
+D:\drive\Csharp\1º semestre\Clinica\Clinica\obj\Debug\Clinica.Properties.Resources.resources
+D:\drive\Csharp\1º semestre\Clinica\Clinica\obj\Debug\Clinica.csproj.GenerateResource.cache
+D:\drive\Csharp\1º semestre\Clinica\Clinica\obj\Debug\Clinica.csproj.CoreCompileInputs.cache
+D:\drive\Csharp\1º semestre\Clinica\Clinica\obj\Debug\Clinica.exe
+D:\drive\Csharp\1º semestre\Clinica\Clinica\obj\Debug\Clinica.pdb
+C:\Users\jeffe\OneDrive\Área de Trabalho\Clinica\Clinica\bin\Debug\Clinica.exe.config
+C:\Users\jeffe\OneDrive\Área de Trabalho\Clinica\Clinica\bin\Debug\Clinica.exe
+C:\Users\jeffe\OneDrive\Área de Trabalho\Clinica\Clinica\bin\Debug\Clinica.pdb
+C:\Users\jeffe\OneDrive\Área de Trabalho\Clinica\Clinica\obj\Debug\Clinica.csprojAssemblyReference.cache
+C:\Users\jeffe\OneDrive\Área de Trabalho\Clinica\Clinica\obj\Debug\Clinica.Properties.Resources.resources
+C:\Users\jeffe\OneDrive\Área de Trabalho\Clinica\Clinica\obj\Debug\Clinica.csproj.GenerateResource.cache
+C:\Users\jeffe\OneDrive\Área de Trabalho\Clinica\Clinica\obj\Debug\Clinica.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\OneDrive\Área de Trabalho\Clinica\Clinica\obj\Debug\Clinica.exe
+C:\Users\jeffe\OneDrive\Área de Trabalho\Clinica\Clinica\obj\Debug\Clinica.pdb
+C:\Users\jeffe\OneDrive\Área de Trabalho\Clinica\Clinica\obj\Debug\Clinica.home.resources
+C:\Users\jeffe\OneDrive\Área de Trabalho\Clinica\Clinica\obj\Debug\Clinica.paciente.resources
+C:\Users\jeffe\OneDrive\Área de Trabalho\Clinica\Clinica\obj\Debug\Clinica.consulta.resources
+C:\Users\jeffe\OneDrive\Área de Trabalho\Clinica\Clinica\obj\Debug\Clinica.medico.resources
+C:\Users\jeffe\OneDrive\Área de Trabalho\Clinica\Clinica\obj\Debug\Clinica.relatorio.resources

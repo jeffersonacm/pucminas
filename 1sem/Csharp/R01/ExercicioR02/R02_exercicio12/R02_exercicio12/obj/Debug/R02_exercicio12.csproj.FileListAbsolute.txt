@@ -1,0 +1,6 @@
+C:\Users\1134257\Desktop\R02_exercicio12\R02_exercicio12\bin\Debug\R02_exercicio12.exe.config
+C:\Users\1134257\Desktop\R02_exercicio12\R02_exercicio12\bin\Debug\R02_exercicio12.exe
+C:\Users\1134257\Desktop\R02_exercicio12\R02_exercicio12\bin\Debug\R02_exercicio12.pdb
+C:\Users\1134257\Desktop\R02_exercicio12\R02_exercicio12\obj\Debug\R02_exercicio12.csproj.CoreCompileInputs.cache
+C:\Users\1134257\Desktop\R02_exercicio12\R02_exercicio12\obj\Debug\R02_exercicio12.exe
+C:\Users\1134257\Desktop\R02_exercicio12\R02_exercicio12\obj\Debug\R02_exercicio12.pdb

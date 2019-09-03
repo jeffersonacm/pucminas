@@ -1,0 +1,7 @@
+C:\Users\jeffe\source\repos\Roteiro4\R04_livro_17\R04_livro_17\bin\Debug\R04_livro_17.exe.config
+C:\Users\jeffe\source\repos\Roteiro4\R04_livro_17\R04_livro_17\bin\Debug\R04_livro_17.exe
+C:\Users\jeffe\source\repos\Roteiro4\R04_livro_17\R04_livro_17\bin\Debug\R04_livro_17.pdb
+C:\Users\jeffe\source\repos\Roteiro4\R04_livro_17\R04_livro_17\obj\Debug\R04_livro_17.csprojAssemblyReference.cache
+C:\Users\jeffe\source\repos\Roteiro4\R04_livro_17\R04_livro_17\obj\Debug\R04_livro_17.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\source\repos\Roteiro4\R04_livro_17\R04_livro_17\obj\Debug\R04_livro_17.exe
+C:\Users\jeffe\source\repos\Roteiro4\R04_livro_17\R04_livro_17\obj\Debug\R04_livro_17.pdb
