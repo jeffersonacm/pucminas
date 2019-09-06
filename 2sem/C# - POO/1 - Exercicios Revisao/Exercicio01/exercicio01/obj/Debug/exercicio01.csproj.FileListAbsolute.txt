@@ -1,0 +1,7 @@
+C:\dev\pucminas\2sem\POO\1 - Exercicios Revisao\exercicio01\exercicio01\bin\Debug\exercicio01.exe.config
+C:\dev\pucminas\2sem\POO\1 - Exercicios Revisao\exercicio01\exercicio01\bin\Debug\exercicio01.exe
+C:\dev\pucminas\2sem\POO\1 - Exercicios Revisao\exercicio01\exercicio01\bin\Debug\exercicio01.pdb
+C:\dev\pucminas\2sem\POO\1 - Exercicios Revisao\exercicio01\exercicio01\obj\Debug\exercicio01.csprojAssemblyReference.cache
+C:\dev\pucminas\2sem\POO\1 - Exercicios Revisao\exercicio01\exercicio01\obj\Debug\exercicio01.csproj.CoreCompileInputs.cache
+C:\dev\pucminas\2sem\POO\1 - Exercicios Revisao\exercicio01\exercicio01\obj\Debug\exercicio01.exe
+C:\dev\pucminas\2sem\POO\1 - Exercicios Revisao\exercicio01\exercicio01\obj\Debug\exercicio01.pdb
