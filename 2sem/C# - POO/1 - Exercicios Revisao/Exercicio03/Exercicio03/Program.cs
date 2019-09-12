@@ -10,26 +10,24 @@ namespace Exercicio03
     {
         static void Main(string[] args)
         {
-            int n = 1;
-            int divisor;
-            int perfeito;
             int soma = 0;
 
-            for (int x = 0; x < 1000; x++)
+            Console.WriteLine("Os números perfeitos são...: ");
+
+            for (int x = 2; x < 1000; x++)
             {
+                soma = 0; 
 
-                for (int i = n; i > 0; i--)
+                for (int i = x; i > 0; i--)
                 {
-                    soma = 0;
-
-                    if (i % 2 == 0) {
+                    if (x != i && x % i == 0) {
                         soma += i;
                     }
+                }
 
-                    if(soma == n)
-                    {
-
-                    }
+                if (soma == x)
+                {
+                    Console.Write(" | {0}", x);
                 }
             }
 
