@@ -1,0 +1,11 @@
+/home/jeff/dev/csharp/pucminas/3sem/charp_aed/atividade01/exercicio3/bin/Debug/netcoreapp3.1/exercicio3
+/home/jeff/dev/csharp/pucminas/3sem/charp_aed/atividade01/exercicio3/bin/Debug/netcoreapp3.1/exercicio3.deps.json
+/home/jeff/dev/csharp/pucminas/3sem/charp_aed/atividade01/exercicio3/bin/Debug/netcoreapp3.1/exercicio3.runtimeconfig.json
+/home/jeff/dev/csharp/pucminas/3sem/charp_aed/atividade01/exercicio3/bin/Debug/netcoreapp3.1/exercicio3.runtimeconfig.dev.json
+/home/jeff/dev/csharp/pucminas/3sem/charp_aed/atividade01/exercicio3/bin/Debug/netcoreapp3.1/exercicio3.dll
+/home/jeff/dev/csharp/pucminas/3sem/charp_aed/atividade01/exercicio3/bin/Debug/netcoreapp3.1/exercicio3.pdb
+/home/jeff/dev/csharp/pucminas/3sem/charp_aed/atividade01/exercicio3/obj/Debug/netcoreapp3.1/exercicio3.csprojAssemblyReference.cache
+/home/jeff/dev/csharp/pucminas/3sem/charp_aed/atividade01/exercicio3/obj/Debug/netcoreapp3.1/exercicio3.AssemblyInfoInputs.cache
+/home/jeff/dev/csharp/pucminas/3sem/charp_aed/atividade01/exercicio3/obj/Debug/netcoreapp3.1/exercicio3.AssemblyInfo.cs
+/home/jeff/dev/csharp/pucminas/3sem/charp_aed/atividade01/exercicio3/obj/Debug/netcoreapp3.1/exercicio3.dll
+/home/jeff/dev/csharp/pucminas/3sem/charp_aed/atividade01/exercicio3/obj/Debug/netcoreapp3.1/exercicio3.pdb

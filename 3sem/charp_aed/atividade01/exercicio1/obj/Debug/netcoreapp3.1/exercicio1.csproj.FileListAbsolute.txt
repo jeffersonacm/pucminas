@@ -1,0 +1,11 @@
+/home/jeff/dev/Csharp/atividade01/exercicio1/bin/Debug/netcoreapp3.1/exercicio1
+/home/jeff/dev/Csharp/atividade01/exercicio1/bin/Debug/netcoreapp3.1/exercicio1.deps.json
+/home/jeff/dev/Csharp/atividade01/exercicio1/bin/Debug/netcoreapp3.1/exercicio1.runtimeconfig.json
+/home/jeff/dev/Csharp/atividade01/exercicio1/bin/Debug/netcoreapp3.1/exercicio1.runtimeconfig.dev.json
+/home/jeff/dev/Csharp/atividade01/exercicio1/bin/Debug/netcoreapp3.1/exercicio1.dll
+/home/jeff/dev/Csharp/atividade01/exercicio1/bin/Debug/netcoreapp3.1/exercicio1.pdb
+/home/jeff/dev/Csharp/atividade01/exercicio1/obj/Debug/netcoreapp3.1/exercicio1.csprojAssemblyReference.cache
+/home/jeff/dev/Csharp/atividade01/exercicio1/obj/Debug/netcoreapp3.1/exercicio1.AssemblyInfoInputs.cache
+/home/jeff/dev/Csharp/atividade01/exercicio1/obj/Debug/netcoreapp3.1/exercicio1.AssemblyInfo.cs
+/home/jeff/dev/Csharp/atividade01/exercicio1/obj/Debug/netcoreapp3.1/exercicio1.dll
+/home/jeff/dev/Csharp/atividade01/exercicio1/obj/Debug/netcoreapp3.1/exercicio1.pdb
