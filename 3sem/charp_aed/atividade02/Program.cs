@@ -1,6 +1,7 @@
 ﻿using System;
 using System.IO;
 using System.Collections.Generic;
+using System.ServiceModel;
 
 namespace atividade02
 {
@@ -8,8 +9,8 @@ namespace atividade02
     {
         static void Main(string[] args)
         {
-            string linha = "";
-            string[] linhaseparada = null;
+            string line = "";
+            string[] lineSplit = null;
             int i = 0;
             StreamReader reader = new StreamReader("dados.csv");
             List<Movies> moviesList = new List<Movies>();
@@ -21,83 +22,105 @@ namespace atividade02
                     continue;
                 }
 
-                linha = reader.ReadLine();
+                line = reader.ReadLine();
 
-                if (linha == null) break;
+                if (line == null) break;
 
-                linhaseparada = linha.Split(';');
+                lineSplit = line.Split(';');
 
                 Movies movies = new Movies();
-                movies.color = linhaseparada[0];
-                movies.director_name = linhaseparada[1];
-                movies.num_critic_for_reviews = linhaseparada[2];
+                movies.color = lineSplit[0];
+                movies.director_name = lineSplit[1];
+                movies.num_critic_for_reviews = lineSplit[2];
 
-                if (! Int32.TryParse(linhaseparada[3], out movies.duration)) {
-                    movies.duration = 0;
+                if (! Int32.TryParse(lineSplit[3], out movies.duration)) {
+                    //removido para não atrapalhar nas comparações
+                    continue;
                 }
 
-                movies.director_facebook_likes = linhaseparada[4];
-                movies.actor_3_facebook_likes = linhaseparada[5];
-                movies.actor_2_name = linhaseparada[6];
-                movies.actor_1_facebook_likes = linhaseparada[7];
-                movies.gross = linhaseparada[8];
-                movies.genres = linhaseparada[9];
-                movies.actor_1_name = linhaseparada[10];
-                movies.movie_title = linhaseparada[11];
-                movies.num_voted_users = linhaseparada[12];
-                movies.cast_total_facebook_likes = linhaseparada[12];
-                movies.actor_3_name = linhaseparada[13];
-                movies.facenumber_in_poster = linhaseparada[14];
-                movies.plot_keywords = linhaseparada[15];
-                movies.movie_imdb_link = linhaseparada[16];
-                movies.num_user_for_reviews = linhaseparada[17];
-                movies.language = linhaseparada[18];
-                movies.country = linhaseparada[19];
-                movies.content_rating = linhaseparada[20];
-                movies.budget = linhaseparada[21];
-                movies.title_year = linhaseparada[22];
-                movies.actor_2_facebook_likes = linhaseparada[23];
-                movies.imdb_score = linhaseparada[24];
-                movies.aspect_ratio = linhaseparada[25];
-                movies.movie_facebook_likes = linhaseparada[26];
+                movies.director_facebook_likes = lineSplit[4];
+                movies.actor_3_facebook_likes = lineSplit[5];
+                movies.actor_2_name = lineSplit[6];
+                movies.actor_1_facebook_likes = lineSplit[7];
+                movies.gross = lineSplit[8];
+                movies.genres = lineSplit[9];
+                movies.actor_1_name = lineSplit[10];
+                movies.movie_title = lineSplit[11];
+
+                if(! Int32.TryParse(lineSplit[12], out movies.num_voted_users)) {
+                    movies.num_voted_users = 0;
+                }
+
+                movies.cast_total_facebook_likes = lineSplit[12];
+                movies.actor_3_name = lineSplit[13];
+                movies.facenumber_in_poster = lineSplit[14];
+                movies.plot_keywords = lineSplit[15];
+                movies.movie_imdb_link = lineSplit[16];
+                movies.num_user_for_reviews = lineSplit[17];
+                movies.language = lineSplit[18];
+                movies.country = lineSplit[19];
+                movies.content_rating = lineSplit[20];
+                movies.budget = lineSplit[21];
+                movies.title_year = lineSplit[22];
+                movies.actor_2_facebook_likes = lineSplit[23];
+                movies.imdb_score = lineSplit[24];
+                movies.aspect_ratio = lineSplit[25];
+                movies.movie_facebook_likes = lineSplit[26];
 
                 moviesList.Add(movies);
             }
 
             i = 0;
 
-            int blackWhite = 0, maiorDuracao = 0, menorDuracao = 0;
-            String nomeMaiorDuracao = "";
-            String nomeMenorDuracao = "";
+            int blackWhite = 0, count =0; maxDuration, minDuration, maxVotes, minVotes;
+            String nameMaxDuration, nameMinDuration, nameMaxVotes, nameMinVotes;
 
-            foreach(Movies m in moviesList) {
-                if(i == 0) {
-                    maiorDuracao = m.duration;
-                    menorDuracao = m.duration;
-                }
+            //Dictionary<string, int> directors = new Dictionary<string, int>();
 
-                System.Console.WriteLine(menorDuracao);
 
-                if(m.color.Trim() == "Black and White") {
+
+            minDuration = moviesList[0].duration;
+            maxDuration = moviesList[0].duration;
+            nameMaxDuration = moviesList[0].movie_title;
+            nameMinDuration = moviesList[0].movie_title;
+            maxVotes = moviesList[0].num_voted_users;
+            minVotes = moviesList[0].num_voted_users;
+            nameMaxVotes = moviesList[0].movie_title;
+            nameMinVotes = moviesList[0].movie_title;
+
+
+            foreach (Movies m in moviesList) {
+                if (m.color.Trim() == "Black and White") {
                     blackWhite++;
                 }
 
-                if(maiorDuracao < m.duration) {
-                    maiorDuracao = m.duration;
-                    nomeMaiorDuracao = m.movie_title;
+                if (maxDuration < m.duration) {
+                    maxDuration = m.duration;
+                    nameMaxDuration = m.movie_title;
                 }
 
-                if(menorDuracao > m.duration) {
-                    menorDuracao = m.duration;
-                    nomeMenorDuracao = m.movie_title;
+                if (minDuration > m.duration) {
+                    minDuration = m.duration;
+                    nameMinDuration = m.movie_title;
                 }
 
-                i++;
+                if (maxVotes < m.num_voted_users) {
+                    maxVotes = m.num_voted_users;
+                    nameMaxVotes = m.movie_title;
+                }
+
+                if (minVotes > m.num_voted_users) {
+                    minVotes = m.num_voted_users;
+                    nameMinVotes = m.movie_title;
+                }
+
             }
 
             Console.WriteLine("Preto e branco: " + blackWhite);
-            System.Console.WriteLine("Maior duração: " + nomeMaiorDuracao);
-            System.Console.WriteLine("Menor duração: " + nomeMenorDuracao);
+            System.Console.WriteLine("Maior duração: " + nameMaxDuration);
+            System.Console.WriteLine("Menor duração: " + nameMinDuration);
+            System.Console.WriteLine("Mais votos: " + nameMaxVotes);
+            System.Console.WriteLine("Menos votos: " + nameMinVotes);
 
             Console.ReadKey();
         }
@@ -116,7 +139,7 @@ namespace atividade02
         public string genres;
         public string actor_1_name;
         public string movie_title;
-        public string num_voted_users;
+        public int num_voted_users;
         public string cast_total_facebook_likes;
         public string actor_3_name;
         public string facenumber_in_poster;
