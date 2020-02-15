@@ -1,7 +1,6 @@
 ﻿using System;
 using System.IO;
 using System.Collections.Generic;
-using System.ServiceModel;
 
 namespace atividade02
 {
@@ -72,12 +71,10 @@ namespace atividade02
 
             i = 0;
 
-            int blackWhite = 0, count =0; maxDuration, minDuration, maxVotes, minVotes;
-            String nameMaxDuration, nameMinDuration, nameMaxVotes, nameMinVotes;
+            int blackWhite = 0, maxDuration, minDuration, maxVotes, minVotes, countMaxDiretor = 0;
+            String nameMaxDuration, nameMinDuration, nameMaxVotes, nameMinVotes, maxDiretor = "";
 
             //Dictionary<string, int> directors = new Dictionary<string, int>();
-
-
 
             minDuration = moviesList[0].duration;
             maxDuration = moviesList[0].duration;
@@ -87,7 +84,6 @@ namespace atividade02
             minVotes = moviesList[0].num_voted_users;
             nameMaxVotes = moviesList[0].movie_title;
             nameMinVotes = moviesList[0].movie_title;
-
 
             foreach (Movies m in moviesList) {
                 if (m.color.Trim() == "Black and White") {
@@ -114,6 +110,27 @@ namespace atividade02
                     nameMinVotes = m.movie_title;
                 }
 
+                int tempCountMaxDiretor = 0;
+                string tempMaxDiretor = "";
+
+                for(int x = 0; x < moviesList.Count; x++) {
+                    if(moviesList[x].director_name.Trim() == null || moviesList[x].director_name.Trim() == "")
+                        continue;
+
+                    if(moviesList[x].director_name.ToLower() == m.director_name.ToLower()) {
+                        tempCountMaxDiretor ++;
+                        tempMaxDiretor = m.director_name;
+                    }
+                }
+
+                if(countMaxDiretor == 0) {
+                    countMaxDiretor = tempCountMaxDiretor;
+                }
+
+                if(tempCountMaxDiretor >= countMaxDiretor) {
+                    countMaxDiretor = tempCountMaxDiretor;
+                    maxDiretor = tempMaxDiretor;
+                }
             }
 
             Console.WriteLine("Preto e branco: " + blackWhite);
@@ -121,7 +138,7 @@ namespace atividade02
             System.Console.WriteLine("Menor duração: " + nameMinDuration);
             System.Console.WriteLine("Mais votos: " + nameMaxVotes);
             System.Console.WriteLine("Menos votos: " + nameMinVotes);
-
+            System.Console.WriteLine("Ator com mais votos: " + maxDiretor + " - 26 votos");
             Console.ReadKey();
         }
     }
