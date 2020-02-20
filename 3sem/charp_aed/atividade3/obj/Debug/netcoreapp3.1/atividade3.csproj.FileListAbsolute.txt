@@ -1,0 +1,11 @@
+/home/jeff/dev/csharp/pucminas/3sem/charp_aed/atividade3/bin/Debug/netcoreapp3.1/atividade3
+/home/jeff/dev/csharp/pucminas/3sem/charp_aed/atividade3/bin/Debug/netcoreapp3.1/atividade3.deps.json
+/home/jeff/dev/csharp/pucminas/3sem/charp_aed/atividade3/bin/Debug/netcoreapp3.1/atividade3.runtimeconfig.json
+/home/jeff/dev/csharp/pucminas/3sem/charp_aed/atividade3/bin/Debug/netcoreapp3.1/atividade3.runtimeconfig.dev.json
+/home/jeff/dev/csharp/pucminas/3sem/charp_aed/atividade3/bin/Debug/netcoreapp3.1/atividade3.dll
+/home/jeff/dev/csharp/pucminas/3sem/charp_aed/atividade3/bin/Debug/netcoreapp3.1/atividade3.pdb
+/home/jeff/dev/csharp/pucminas/3sem/charp_aed/atividade3/obj/Debug/netcoreapp3.1/atividade3.csprojAssemblyReference.cache
+/home/jeff/dev/csharp/pucminas/3sem/charp_aed/atividade3/obj/Debug/netcoreapp3.1/atividade3.AssemblyInfoInputs.cache
+/home/jeff/dev/csharp/pucminas/3sem/charp_aed/atividade3/obj/Debug/netcoreapp3.1/atividade3.AssemblyInfo.cs
+/home/jeff/dev/csharp/pucminas/3sem/charp_aed/atividade3/obj/Debug/netcoreapp3.1/atividade3.dll
+/home/jeff/dev/csharp/pucminas/3sem/charp_aed/atividade3/obj/Debug/netcoreapp3.1/atividade3.pdb
