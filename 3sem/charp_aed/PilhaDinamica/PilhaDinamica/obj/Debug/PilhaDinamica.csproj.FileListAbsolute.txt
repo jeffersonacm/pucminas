@@ -1,0 +1,14 @@
+C:\Users\joyce\OneDrive\Documentos\Aulas_Atual\05 - AED\Classes\PilhaDinamica\PilhaDinamica\bin\Debug\PilhaDinamica.exe.config
+C:\Users\joyce\OneDrive\Documentos\Aulas_Atual\05 - AED\Classes\PilhaDinamica\PilhaDinamica\bin\Debug\PilhaDinamica.exe
+C:\Users\joyce\OneDrive\Documentos\Aulas_Atual\05 - AED\Classes\PilhaDinamica\PilhaDinamica\bin\Debug\PilhaDinamica.pdb
+C:\Users\joyce\OneDrive\Documentos\Aulas_Atual\05 - AED\Classes\PilhaDinamica\PilhaDinamica\obj\Debug\PilhaDinamica.csprojAssemblyReference.cache
+C:\Users\joyce\OneDrive\Documentos\Aulas_Atual\05 - AED\Classes\PilhaDinamica\PilhaDinamica\obj\Debug\PilhaDinamica.csproj.CoreCompileInputs.cache
+C:\Users\joyce\OneDrive\Documentos\Aulas_Atual\05 - AED\Classes\PilhaDinamica\PilhaDinamica\obj\Debug\PilhaDinamica.exe
+C:\Users\joyce\OneDrive\Documentos\Aulas_Atual\05 - AED\Classes\PilhaDinamica\PilhaDinamica\obj\Debug\PilhaDinamica.pdb
+C:\Users\jeffe\Desktop\PilhaDinamica\PilhaDinamica\bin\Debug\PilhaDinamica.exe.config
+C:\Users\jeffe\Desktop\PilhaDinamica\PilhaDinamica\bin\Debug\PilhaDinamica.exe
+C:\Users\jeffe\Desktop\PilhaDinamica\PilhaDinamica\bin\Debug\PilhaDinamica.pdb
+C:\Users\jeffe\Desktop\PilhaDinamica\PilhaDinamica\obj\Debug\PilhaDinamica.csprojAssemblyReference.cache
+C:\Users\jeffe\Desktop\PilhaDinamica\PilhaDinamica\obj\Debug\PilhaDinamica.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\Desktop\PilhaDinamica\PilhaDinamica\obj\Debug\PilhaDinamica.exe
+C:\Users\jeffe\Desktop\PilhaDinamica\PilhaDinamica\obj\Debug\PilhaDinamica.pdb
