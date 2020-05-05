@@ -1,0 +1,14 @@
+C:\dev\pucminas\2sem\C# - POO\3 - Exercicios\Exercicio01\Exercicio01\bin\Debug\Exercicio01.exe.config
+C:\dev\pucminas\2sem\C# - POO\3 - Exercicios\Exercicio01\Exercicio01\bin\Debug\Exercicio01.exe
+C:\dev\pucminas\2sem\C# - POO\3 - Exercicios\Exercicio01\Exercicio01\bin\Debug\Exercicio01.pdb
+C:\dev\pucminas\2sem\C# - POO\3 - Exercicios\Exercicio01\Exercicio01\obj\Debug\Exercicio01.csprojAssemblyReference.cache
+C:\dev\pucminas\2sem\C# - POO\3 - Exercicios\Exercicio01\Exercicio01\obj\Debug\Exercicio01.csproj.CoreCompileInputs.cache
+C:\dev\pucminas\2sem\C# - POO\3 - Exercicios\Exercicio01\Exercicio01\obj\Debug\Exercicio01.exe
+C:\dev\pucminas\2sem\C# - POO\3 - Exercicios\Exercicio01\Exercicio01\obj\Debug\Exercicio01.pdb
+C:\dev\pucminas\2sem\C# - POO\3 - Exercicios\Exercicio02\Exercicio01\bin\Debug\Exercicio01.exe.config
+C:\dev\pucminas\2sem\C# - POO\3 - Exercicios\Exercicio02\Exercicio01\bin\Debug\Exercicio01.exe
+C:\dev\pucminas\2sem\C# - POO\3 - Exercicios\Exercicio02\Exercicio01\bin\Debug\Exercicio01.pdb
+C:\dev\pucminas\2sem\C# - POO\3 - Exercicios\Exercicio02\Exercicio01\obj\Debug\Exercicio01.csprojAssemblyReference.cache
+C:\dev\pucminas\2sem\C# - POO\3 - Exercicios\Exercicio02\Exercicio01\obj\Debug\Exercicio01.csproj.CoreCompileInputs.cache
+C:\dev\pucminas\2sem\C# - POO\3 - Exercicios\Exercicio02\Exercicio01\obj\Debug\Exercicio01.exe
+C:\dev\pucminas\2sem\C# - POO\3 - Exercicios\Exercicio02\Exercicio01\obj\Debug\Exercicio01.pdb
