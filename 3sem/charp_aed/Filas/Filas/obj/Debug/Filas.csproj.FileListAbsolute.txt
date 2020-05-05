@@ -1,0 +1,7 @@
+C:\Users\jeffe\Desktop\Filas\Filas\bin\Debug\Filas.exe.config
+C:\Users\jeffe\Desktop\Filas\Filas\bin\Debug\Filas.exe
+C:\Users\jeffe\Desktop\Filas\Filas\bin\Debug\Filas.pdb
+C:\Users\jeffe\Desktop\Filas\Filas\obj\Debug\Filas.csprojAssemblyReference.cache
+C:\Users\jeffe\Desktop\Filas\Filas\obj\Debug\Filas.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\Desktop\Filas\Filas\obj\Debug\Filas.exe
+C:\Users\jeffe\Desktop\Filas\Filas\obj\Debug\Filas.pdb
