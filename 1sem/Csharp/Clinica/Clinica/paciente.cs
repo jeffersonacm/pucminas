@@ -20,6 +20,7 @@ namespace Clinica
 
         private void paciente_Load(object sender, EventArgs e)
         {
+            txtNomeP.Focus();
             carregaGrid();
         }
 
@@ -64,6 +65,40 @@ namespace Clinica
             string[] linhas;
             int maior = 0, aux = 0, i=0;
 
+
+            if(txtNomeP.Text == "")
+            {
+                MessageBox.Show("Informe o nome do paciente!", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                txtNomeP.Focus();
+                return;
+            }
+
+            if (txtEnderecoP.Text == "")
+            {
+                MessageBox.Show("Informe o endereço do paciente!", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                txtEnderecoP.Focus();
+                return;
+            }
+            if (TextNoFormatting(txtTelefoneP) == "")
+            {
+                MessageBox.Show("Informe o telefone do paciente!", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                txtTelefoneP.Focus();
+                return;
+            }
+
+            if (TextNoFormatting(txtDtP) == "")
+            {
+                MessageBox.Show("Informe a data de nascimento do paciente!", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                txtDtP.Focus();
+                return;
+            }
+
+            if (!(File.Exists("pacientes.txt")))
+            {
+                FileStream arq = new FileStream("medicos.txt", FileMode.Create);
+                arq.Close();
+            }
+
             StreamReader ler = new StreamReader("pacientes.txt");
 
             while (linha != null)
@@ -73,9 +108,6 @@ namespace Clinica
                 if (linha != null)
                 {
                     linhas = linha.Split(';');
-                    Console.WriteLine();
-                    //MessageBox.Show((linhas[1]));
-
                     aux = int.Parse(linhas[0]);
 
                     if (i == 0)
@@ -95,71 +127,21 @@ namespace Clinica
             StreamWriter escrever = new StreamWriter("pacientes.txt", true);
             escrever.WriteLine(maior+";"+txtNomeP.Text+";"+txtEnderecoP.Text + ";" + txtTelefoneP.Text + ";" + txtDtP.Text);
             escrever.Close();
+
+            MessageBox.Show("Paciente incluido com sucesso!", "Confirmação", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            txtDtP.Text = "";
+            txtEnderecoP.Text = "";
+            txtNomeP.Text = "";
+            txtTelefoneP.Text = "";
             carregaGrid();
         }
 
-        private void txtNomeP_Validating(object sender, CancelEventArgs e)
+        private string TextNoFormatting(MaskedTextBox _mask)
         {
-            errorProvider1.Clear();
-            if (txtNomeP.Text.Trim() == "")
-            {
-                txtNomeP.BackColor = Color.Red;
-                errorProvider1.SetError(txtNomeP, "Digite o nome do paciente");
-                txtNomeP.Focus();
-            } else
-            {
-                txtNomeP.BackColor = Color.White;
-                txtEnderecoP.Focus();
-            }
-        }
-
-        private void txtEnderecoP_Validating(object sender, CancelEventArgs e)
-        {
-            errorProvider1.Clear();
-            if (txtEnderecoP.Text.Trim() == "")
-            {
-                txtEnderecoP.BackColor = Color.Red;
-                errorProvider1.SetError(txtEnderecoP, "Digite o nome do paciente");
-                txtEnderecoP.Focus();
-            }
-            else
-            {
-                txtEnderecoP.BackColor = Color.White;
-                txtTelefoneP.Focus();
-            }
-        }
-
-        private void txtTelefoneP_Validating(object sender, CancelEventArgs e)
-        {
-            errorProvider1.Clear();
-            if (txtTelefoneP.Text.Trim() == "")
-            {
-                txtTelefoneP.BackColor = Color.Red;
-                errorProvider1.SetError(txtTelefoneP, "Digite o nome do paciente");
-                txtTelefoneP.Focus();
-            }
-            else
-            {
-                txtTelefoneP.BackColor = Color.White;
-                txtDtP.Focus();
-            }
-        }
-
-        private void txtDtP_Validating(object sender, CancelEventArgs e)
-        {
-            
-            errorProvider1.Clear();
-            if (txtDtP.Text.Trim() == "")
-            {
-                txtDtP.BackColor = Color.Red;
-                errorProvider1.SetError(txtDtP, "Digite o nome do paciente");
-                txtDtP.Focus();
-            }
-            else
-            {
-                txtDtP.BackColor = Color.White;
-                btnCadastroP.Focus();
-            }
+            _mask.TextMaskFormat = MaskFormat.ExcludePromptAndLiterals;
+            String retString = _mask.Text;
+            _mask.TextMaskFormat = MaskFormat.IncludePromptAndLiterals;
+            return retString;
         }
     }
 }

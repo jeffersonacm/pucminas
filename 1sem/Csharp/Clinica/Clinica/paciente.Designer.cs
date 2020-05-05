@@ -48,7 +48,7 @@
             // 
             // dataGridView1
             // 
-            this.dataGridView1.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.AllCells;
+            this.dataGridView1.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.dataGridView1.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllHeaders;
             this.dataGridView1.BackgroundColor = System.Drawing.Color.White;
             this.dataGridView1.BorderStyle = System.Windows.Forms.BorderStyle.None;
@@ -83,7 +83,6 @@
             // 
             resources.ApplyResources(this.txtEnderecoP, "txtEnderecoP");
             this.txtEnderecoP.Name = "txtEnderecoP";
-            this.txtEnderecoP.Validating += new System.ComponentModel.CancelEventHandler(this.txtEnderecoP_Validating);
             // 
             // label4
             // 
@@ -94,7 +93,6 @@
             // 
             resources.ApplyResources(this.txtNomeP, "txtNomeP");
             this.txtNomeP.Name = "txtNomeP";
-            this.txtNomeP.Validating += new System.ComponentModel.CancelEventHandler(this.txtNomeP_Validating);
             // 
             // label3
             // 
@@ -106,13 +104,11 @@
             resources.ApplyResources(this.txtDtP, "txtDtP");
             this.txtDtP.Name = "txtDtP";
             this.txtDtP.ValidatingType = typeof(System.DateTime);
-            this.txtDtP.Validating += new System.ComponentModel.CancelEventHandler(this.txtDtP_Validating);
             // 
             // txtTelefoneP
             // 
             resources.ApplyResources(this.txtTelefoneP, "txtTelefoneP");
             this.txtTelefoneP.Name = "txtTelefoneP";
-            this.txtTelefoneP.Validating += new System.ComponentModel.CancelEventHandler(this.txtTelefoneP_Validating);
             // 
             // errorProvider1
             // 
@@ -122,7 +118,7 @@
             // 
             resources.ApplyResources(this, "$this");
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.BackColor = System.Drawing.Color.White;
             this.Controls.Add(this.txtTelefoneP);
             this.Controls.Add(this.txtDtP);
             this.Controls.Add(this.dataGridView1);

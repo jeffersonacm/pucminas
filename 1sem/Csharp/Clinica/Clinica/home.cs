@@ -17,21 +17,20 @@ namespace Clinica
         private medico medico = new medico();
         private consulta consulta = new consulta();
         private relatorio relatorio = new relatorio();
-
+        private inicial inicial = new inicial();
+        
         public home()
         {
             InitializeComponent();
-
-           // DataTable table = new DataTable();
-           //table.Rows.Add(1, 2, 2);
-
-
-           // dataGridView1.DataSource = table;
         }
 
         private void home_Load(object sender, EventArgs e)
         {
-            
+            this.inicial = new inicial();
+            this.inicial.TopLevel = false;
+            this.Controls.Add(this.inicial);
+            this.inicial.Location = new Point(136, 97);
+            this.inicial.Visible = true;
         }
 
         private void btnInicio_Click(object sender, EventArgs e)
@@ -40,6 +39,16 @@ namespace Clinica
             this.medico.Close();
             this.consulta.Close();
             this.relatorio.Close();
+
+            var frmmenu = Application.OpenForms["inicial"];
+            if (frmmenu == null)
+            {
+                this.inicial = new inicial();
+                this.inicial.TopLevel = false;
+                this.Controls.Add(this.inicial);
+                this.inicial.Location = new Point(136, 97);
+                this.inicial.Visible = true;
+            }
         }
 
         private void btnPaciente_Click(object sender, EventArgs e)
@@ -47,6 +56,7 @@ namespace Clinica
             this.medico.Close();
             this.consulta.Close();
             this.relatorio.Close();
+            this.inicial.Close();
 
             var frmmenu = Application.OpenForms["paciente"];
             if (frmmenu == null)
@@ -54,8 +64,7 @@ namespace Clinica
                 this.paciente = new paciente();
                 this.paciente.TopLevel = false;
                 this.Controls.Add(this.paciente);
-                //this.ArrangeFormSize();
-                this.paciente.Location = new Point(149, 123);
+                this.paciente.Location = new Point(136, 97);
                 this.paciente.Visible = true;
             }
         }
@@ -65,6 +74,7 @@ namespace Clinica
             this.paciente.Close();
             this.consulta.Close();
             this.relatorio.Close();
+            this.inicial.Close();
 
             var frmmenu = Application.OpenForms["medico"];
             if (frmmenu == null)
@@ -72,8 +82,7 @@ namespace Clinica
                 this.medico = new medico();
                 this.medico.TopLevel = false;
                 this.Controls.Add(this.medico);
-                //this.ArrangeFormSize();
-                this.medico.Location = new Point(149, 123);
+                this.medico.Location = new Point(136, 97);
                 this.medico.Visible = true;
             }
         }
@@ -83,6 +92,7 @@ namespace Clinica
             this.paciente.Close();
             this.medico.Close();
             this.relatorio.Close();
+            this.inicial.Close();
 
             var frmmenu = Application.OpenForms["consulta"];
             if (frmmenu == null)
@@ -90,8 +100,7 @@ namespace Clinica
                 this.consulta = new consulta();
                 this.consulta.TopLevel = false;
                 this.Controls.Add(this.consulta);
-                //this.ArrangeFormSize();
-                this.consulta.Location = new Point(149, 123);
+                this.consulta.Location = new Point(136, 97);
                 this.consulta.Visible = true;
             }
 
@@ -102,6 +111,7 @@ namespace Clinica
             this.paciente.Close();
             this.medico.Close();
             this.consulta.Close();
+            this.inicial.Close();
 
             var frmmenu = Application.OpenForms["relatorio"];
             if (frmmenu == null)
@@ -109,36 +119,14 @@ namespace Clinica
                 this.relatorio = new relatorio();
                 this.relatorio.TopLevel = false;
                 this.Controls.Add(this.relatorio);
-                //this.ArrangeFormSize();
-                this.relatorio.Location = new Point(149, 123);
+                this.relatorio.Location = new Point(136, 97);
                 this.relatorio.Visible = true;
             }
-        }
-
-       /* 
-        private void home_SizeChanged(object sender, EventArgs e)
-        {
-            this.ArrangeFormSize();
-        }
-
-        private void ArrangeFormSize()
-        {
-            this.paciente.Location = new Point(148, 152);
-        }*/
-
-        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-           
         }
 
         private void button5_Click(object sender, EventArgs e)
         {
             Close();
-        }
-
-        private void label2_Click(object sender, EventArgs e)
-        {
-
         }
 
         private void btnClose_Click(object sender, EventArgs e)
@@ -165,26 +153,18 @@ namespace Clinica
             this.WindowState = FormWindowState.Minimized;
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-
-        }
-
+        /**extern* Permite que o metodo seja implementado por uma dll
+            A dll user32 permite o envio de comandos do mouse, para no caso, fazer o calculo da sua posição
+            e mover o programa quando clicado no painel superior */
         [DllImport("user32.DLL", EntryPoint = "ReleaseCapture")]
         private extern static void ReleaseCapture();
         [DllImport("user32.DLL", EntryPoint = "SendMessage")]
-
         private extern static void SendMessage(System.IntPtr hWnd, int wMsg, int wParam, int lParam);
-
+        //ao pressionar o botão do mouse é disparado esse evento
         private void panel2_MouseDown(object sender, MouseEventArgs e)
         {
             ReleaseCapture();
             SendMessage(this.Handle, 0x112, 0xf012, 0);
-        }
-
-        private void panel3_Paint(object sender, PaintEventArgs e)
-        {
-
         }
 
         private void panel3_MouseDown(object sender, MouseEventArgs e)

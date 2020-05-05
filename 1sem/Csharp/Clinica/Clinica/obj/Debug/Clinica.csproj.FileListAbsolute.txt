@@ -22,3 +22,33 @@ C:\Users\jeffe\OneDrive\Área de Trabalho\Clinica\Clinica\obj\Debug\Clinica.paci
 C:\Users\jeffe\OneDrive\Área de Trabalho\Clinica\Clinica\obj\Debug\Clinica.consulta.resources
 C:\Users\jeffe\OneDrive\Área de Trabalho\Clinica\Clinica\obj\Debug\Clinica.medico.resources
 C:\Users\jeffe\OneDrive\Área de Trabalho\Clinica\Clinica\obj\Debug\Clinica.relatorio.resources
+C:\Users\jeffe\Documents\Clinica\Clinica\bin\Debug\Clinica.exe.config
+C:\Users\jeffe\Documents\Clinica\Clinica\bin\Debug\Clinica.exe
+C:\Users\jeffe\Documents\Clinica\Clinica\bin\Debug\Clinica.pdb
+C:\Users\jeffe\Documents\Clinica\Clinica\obj\Debug\Clinica.csprojAssemblyReference.cache
+C:\Users\jeffe\Documents\Clinica\Clinica\obj\Debug\Clinica.consulta.resources
+C:\Users\jeffe\Documents\Clinica\Clinica\obj\Debug\Clinica.home.resources
+C:\Users\jeffe\Documents\Clinica\Clinica\obj\Debug\Clinica.medico.resources
+C:\Users\jeffe\Documents\Clinica\Clinica\obj\Debug\Clinica.paciente.resources
+C:\Users\jeffe\Documents\Clinica\Clinica\obj\Debug\Clinica.Properties.Resources.resources
+C:\Users\jeffe\Documents\Clinica\Clinica\obj\Debug\Clinica.relatorio.resources
+C:\Users\jeffe\Documents\Clinica\Clinica\obj\Debug\Clinica.csproj.GenerateResource.cache
+C:\Users\jeffe\Documents\Clinica\Clinica\obj\Debug\Clinica.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\Documents\Clinica\Clinica\obj\Debug\Clinica.exe
+C:\Users\jeffe\Documents\Clinica\Clinica\obj\Debug\Clinica.pdb
+C:\Users\jeffe\OneDrive\Área de Trabalho\Clinica\Clinica\obj\Debug\Clinica.inicial.resources
+C:\Users\jeffe\Desktop\Clinica\Clinica\bin\Debug\Clinica.exe.config
+C:\Users\jeffe\Desktop\Clinica\Clinica\bin\Debug\Clinica.exe
+C:\Users\jeffe\Desktop\Clinica\Clinica\bin\Debug\Clinica.pdb
+C:\Users\jeffe\Desktop\Clinica\Clinica\obj\Debug\Clinica.csprojAssemblyReference.cache
+C:\Users\jeffe\Desktop\Clinica\Clinica\obj\Debug\Clinica.consulta.resources
+C:\Users\jeffe\Desktop\Clinica\Clinica\obj\Debug\Clinica.home.resources
+C:\Users\jeffe\Desktop\Clinica\Clinica\obj\Debug\Clinica.inicial.resources
+C:\Users\jeffe\Desktop\Clinica\Clinica\obj\Debug\Clinica.medico.resources
+C:\Users\jeffe\Desktop\Clinica\Clinica\obj\Debug\Clinica.paciente.resources
+C:\Users\jeffe\Desktop\Clinica\Clinica\obj\Debug\Clinica.Properties.Resources.resources
+C:\Users\jeffe\Desktop\Clinica\Clinica\obj\Debug\Clinica.relatorio.resources
+C:\Users\jeffe\Desktop\Clinica\Clinica\obj\Debug\Clinica.csproj.GenerateResource.cache
+C:\Users\jeffe\Desktop\Clinica\Clinica\obj\Debug\Clinica.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\Desktop\Clinica\Clinica\obj\Debug\Clinica.exe
+C:\Users\jeffe\Desktop\Clinica\Clinica\obj\Debug\Clinica.pdb
