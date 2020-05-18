@@ -1,0 +1,1 @@
+Analisando os resultados da busca sequencial e busca binaria, podemos concluir que a busca binaria é muito mais eficiente se tratando de listas de maiores quantidades, ou quando o número buscado não exite. Caso o numero buscado seja um dos primeiros, a busca sequencial será mais rápida. Outra vantagem da busca sequencial é que ela não exige que a lista esteja ordenada.

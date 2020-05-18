@@ -1,0 +1,7 @@
+C:\Users\jeffe\Desktop\PesquisaSequencialBinaria\PesquisaSequencialBinaria\bin\Debug\PesquisaSequencialBinaria.exe.config
+C:\Users\jeffe\Desktop\PesquisaSequencialBinaria\PesquisaSequencialBinaria\bin\Debug\PesquisaSequencialBinaria.exe
+C:\Users\jeffe\Desktop\PesquisaSequencialBinaria\PesquisaSequencialBinaria\bin\Debug\PesquisaSequencialBinaria.pdb
+C:\Users\jeffe\Desktop\PesquisaSequencialBinaria\PesquisaSequencialBinaria\obj\Debug\PesquisaSequencialBinaria.csprojAssemblyReference.cache
+C:\Users\jeffe\Desktop\PesquisaSequencialBinaria\PesquisaSequencialBinaria\obj\Debug\PesquisaSequencialBinaria.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\Desktop\PesquisaSequencialBinaria\PesquisaSequencialBinaria\obj\Debug\PesquisaSequencialBinaria.exe
+C:\Users\jeffe\Desktop\PesquisaSequencialBinaria\PesquisaSequencialBinaria\obj\Debug\PesquisaSequencialBinaria.pdb
