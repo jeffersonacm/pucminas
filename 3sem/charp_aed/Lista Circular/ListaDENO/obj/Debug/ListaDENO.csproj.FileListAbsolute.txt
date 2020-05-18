@@ -1,0 +1,11 @@
+D:\PUCMinas\AED\Projetos C#\ListaDENO\ListaDENO\bin\Debug\ListaDENO.exe
+D:\PUCMinas\AED\Projetos C#\ListaDENO\ListaDENO\bin\Debug\ListaDENO.pdb
+D:\PUCMinas\AED\Projetos C#\ListaDENO\ListaDENO\obj\Debug\ResolveAssemblyReference.cache
+D:\PUCMinas\AED\Projetos C#\ListaDENO\ListaDENO\obj\Debug\ListaDENO.exe
+D:\PUCMinas\AED\Projetos C#\ListaDENO\ListaDENO\obj\Debug\ListaDENO.pdb
+C:\Users\jeffe\Desktop\ListaDENO\ListaDENO\bin\Debug\ListaDENO.exe
+C:\Users\jeffe\Desktop\ListaDENO\ListaDENO\bin\Debug\ListaDENO.pdb
+C:\Users\jeffe\Desktop\ListaDENO\ListaDENO\obj\Debug\ListaDENO.csprojAssemblyReference.cache
+C:\Users\jeffe\Desktop\ListaDENO\ListaDENO\obj\Debug\ListaDENO.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\Desktop\ListaDENO\ListaDENO\obj\Debug\ListaDENO.exe
+C:\Users\jeffe\Desktop\ListaDENO\ListaDENO\obj\Debug\ListaDENO.pdb
