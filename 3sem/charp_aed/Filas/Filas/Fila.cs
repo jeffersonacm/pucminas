@@ -1,9 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 namespace Filas
 {
     class Fila
@@ -21,10 +16,10 @@ namespace Filas
             count = 0;
         }
 
-        public void InserirElemento(Item item)
+        public void InserirElemento(int numero)
         {
             Elemento elemento = new Elemento();
-            elemento.item = item;
+            elemento.num = numero;
             elemento.prox = null;
 
             if (inicio == null)
@@ -53,36 +48,25 @@ namespace Filas
 
                 while (aux != null)
                 {
-                    Console.WriteLine("{0,5}", aux.item.valor);
+                    Console.WriteLine("{0,5}", aux.num);
                     aux = aux.prox;
                 }
             }
         }
 
-        public void RetiraElemento()
+        public void InverterOrdem()
         {
-            String x;
-
-            Console.Clear();
-
-            if (inicio == null)
+            Elemento aux = inicio, prox = null, aux2 = aux;
+            
+            while (aux != null)
             {
-                Console.WriteLine("A fila está vazia");
+                aux = aux.prox;
+                aux2.prox = prox;
+                prox = aux2;
+                aux2 = aux.prox;
             }
-            else
-            {
-                x = inicio.item.valor;
-                inicio = inicio.prox;
-                count--;
 
-                Console.WriteLine("Elemento {0} retirado da fila \n Tamanho da fila: {1} \n", x, count);
-                Console.ReadKey();
-            }
-        }
-
-        public Boolean IsEmpty()
-        {
-            return inicio == null;
+            inicio = fim;
         }
     }
 }

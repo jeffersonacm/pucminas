@@ -5,3 +5,10 @@ C:\Users\jeffe\Desktop\Filas\Filas\obj\Debug\Filas.csprojAssemblyReference.cache
 C:\Users\jeffe\Desktop\Filas\Filas\obj\Debug\Filas.csproj.CoreCompileInputs.cache
 C:\Users\jeffe\Desktop\Filas\Filas\obj\Debug\Filas.exe
 C:\Users\jeffe\Desktop\Filas\Filas\obj\Debug\Filas.pdb
+C:\dev\pucminas\3sem\charp_aed\Filas\Filas\bin\Debug\Filas.exe.config
+C:\dev\pucminas\3sem\charp_aed\Filas\Filas\bin\Debug\Filas.exe
+C:\dev\pucminas\3sem\charp_aed\Filas\Filas\bin\Debug\Filas.pdb
+C:\dev\pucminas\3sem\charp_aed\Filas\Filas\obj\Debug\Filas.csprojAssemblyReference.cache
+C:\dev\pucminas\3sem\charp_aed\Filas\Filas\obj\Debug\Filas.csproj.CoreCompileInputs.cache
+C:\dev\pucminas\3sem\charp_aed\Filas\Filas\obj\Debug\Filas.exe
+C:\dev\pucminas\3sem\charp_aed\Filas\Filas\obj\Debug\Filas.pdb

@@ -4,14 +4,15 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A266B483-C362-45BB-95AF-9EF13625D222}</ProjectGuid>
+    <ProjectGuid>{6B51EAF2-0EDB-4C34-9039-AC7E45775C87}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Filas</RootNamespace>
-    <AssemblyName>Filas</AssemblyName>
+    <RootNamespace>Lista_8</RootNamespace>
+    <AssemblyName>Lista 8</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -43,8 +44,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Circular.cs" />
     <Compile Include="Elemento.cs" />
-    <Compile Include="Fila.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
