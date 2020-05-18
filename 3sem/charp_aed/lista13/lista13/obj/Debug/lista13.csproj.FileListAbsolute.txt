@@ -1,0 +1,7 @@
+C:\Users\jeffe\Desktop\lista13\lista13\bin\Debug\lista13.exe.config
+C:\Users\jeffe\Desktop\lista13\lista13\bin\Debug\lista13.exe
+C:\Users\jeffe\Desktop\lista13\lista13\bin\Debug\lista13.pdb
+C:\Users\jeffe\Desktop\lista13\lista13\obj\Debug\lista13.csprojAssemblyReference.cache
+C:\Users\jeffe\Desktop\lista13\lista13\obj\Debug\lista13.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\Desktop\lista13\lista13\obj\Debug\lista13.exe
+C:\Users\jeffe\Desktop\lista13\lista13\obj\Debug\lista13.pdb
